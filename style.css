@@ -1,0 +1,33 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url("images/donation8.jpg");
+    background-repeat: no-repeat;
+    background-size: full;
+    background-position-x: 60%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.red-color {
+    color: rgb(216, 11, 11);
+}
+
+section {
+    display: flex;
+}
+
+.top-width {
+    width: 70%;
+    padding-left: 20%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: aliceblue;
+    font-weight: 400;
+    border-radius: 2px;
+    padding: center;
+}
